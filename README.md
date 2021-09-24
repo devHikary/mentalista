@@ -2,9 +2,12 @@
 Projeto desenvolvido durante a ImersãoDev.
 
 ## Projeto inicial apresentado na aula
+O projeto proposto é um jogo de adivinhação em que o usuário terá3 tentativas para acertar o número secreto gerado aleatóriamente.
+
 Este projeto foi criado utilizando:
  - expressões lógicas com if, else if e else;
  - função Math.random() do JavaScript para gerar números aleatórios;
+
 
 ## ⚡Desafios implementados
  - Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final.
